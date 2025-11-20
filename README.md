@@ -193,7 +193,7 @@ MediReach directly contributes to **Sustainable Development Goal 3** by:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Isheboy/MediReach.git
+   git clone https://github.com/Jsews/MediReach.git
    cd MediReach
    ```
 
@@ -778,7 +778,7 @@ MediReach is currently deployed and live:
 **Current Setup:**
 
 1. **Service**: Web Service on Render
-2. **Repository**: Connected to GitHub `Isheboy/MediReach`
+2. **Repository**: Connected to GitHub `Jsews/MediReach`
 3. **Branch**: `main` (auto-deploy enabled)
 4. **Build Command**: `cd server && npm install`
 5. **Start Command**: `cd server && npm start`
@@ -812,7 +812,7 @@ Start Command: npm start
 **Current Setup:**
 
 1. **Platform**: Vercel
-2. **Repository**: Connected to GitHub `Isheboy/MediReach`
+2. **Repository**: Connected to GitHub `Jsews/MediReach`
 3. **Branch**: `main` (auto-deploy enabled)
 4. **Framework**: Vite
 5. **Root Directory**: `client`
@@ -965,6 +965,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Project Maintainer**: Isheboy  
 **GitHub**: [@Isheboy](https://github.com/Isheboy)  
 **Repository**: [MediReach](https://github.com/Isheboy/MediReach)
+
+**Project Mernstack Devs.**: Jsews and levis53leguz
+**Github**: [@Jsews](https://github.com/Jsews) and [@levis53leguz](https://github.com/levis53leguz)
+**Repository**: [MediReach](https://github.com/Jsews/MediReach.git) and [MediReach](https://github.com/levis53leguz)
+
+## Project Group Members
+Ishengoma Kakwezi
+Elvis Kessy
+Janice Sewava
 
 ---
 
