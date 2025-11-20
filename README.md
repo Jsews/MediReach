@@ -971,9 +971,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Repository**: [MediReach](https://github.com/Jsews/MediReach.git) and [MediReach](https://github.com/levis53leguz)
 
 ## Project Group Members
-Ishengoma Kakwezi
-Elvis Kessy
-Janice Sewava
+-Ishengoma Kakwezi.
+-Elvis Kessy.
+-Janice Sewava.
 
 ---
 
